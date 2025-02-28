@@ -3,10 +3,14 @@
 
 # 🔍 Dive Into My Journey:
 <ul>
-  <li>🔭 I’m currently working on: web application testing and pivoting techniques in cybersecurity.</li>
-  <li>🌱 I’m currently learning: advanced Linux concepts, web application security, and lateral movement techniques.</li>
-  <li>👯 I’m looking to collaborate on: Red teaming projects and CTF labs.</li>
-  <li>🤝 I’m looking for help with: solving CTF labs and boxes on platforms like VulnHub and Hack The Box.</li>
+  <li>🔭 I’m currently working on:
+         Web application testing and pivoting techniques in cybersecurity.</li>
+  <li>🌱 I’m currently learning:
+         Advanced Linux concepts, web application security, and lateral movement techniques.</li>
+  <li>👯 I’m looking to collaborate on: 
+         Red teaming projects and CTF labs.</li>
+  <li>🤝 I’m looking for help with: 
+         solving CTF labs and boxes on platforms like VulnHub and Hack The Box.</li>
   <li>💬 Ask me about Linux, basic web application vulnerabilities, or CTF strategies.</li>
   <li>📫 How to reach me: <a href="mailto:rishaa154@gmail.com">rishaa154@gmail.com</a></li>
   <li>⚡ Fun fact: I can spend hours breaking into virtual systems but still struggle to break my sleep schedule!</li>
